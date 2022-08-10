@@ -1,4 +1,4 @@
- 👋 Hi Iam DADY NASSER UTENGA
+ 👋 Hi I am DADY NASSER UTENGA
 - 
 - 🌱 I’m currently learning and doing projects in Django and React Frameworks 
 - 💞️ I’m looking to collaborate on ethical hacking using Python and C

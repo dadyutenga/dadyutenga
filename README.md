@@ -6,9 +6,10 @@
 - 📫 How to reach me by email dadynasser89@gmail.com
 -🌱 I’m currently learning AI/ML
 
-<i class="fab fa-github"></i>
 
 
+<i class="fab fa-github">![image](https://user-images.githubusercontent.com/107155249/224846843-35dc029a-d104-47bf-b3d7-7bd62f701440.png)
+</i>
 
 
 

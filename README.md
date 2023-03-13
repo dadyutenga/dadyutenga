@@ -5,6 +5,7 @@
 - curently familliar languages , stacks and tools .
 - 📫 How to reach me by email dadynasser89@gmail.com
 -🌱 I’m currently learning AI/ML
+![image](https://user-images.githubusercontent.com/107155249/224845479-6c126c41-23bb-400d-baa6-73903403283b.png)
 
 
 

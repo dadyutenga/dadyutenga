@@ -7,8 +7,7 @@
 -🌱 I’m currently learning AI/ML
 
 
-   
-https://angular.io/
+
 
 
 

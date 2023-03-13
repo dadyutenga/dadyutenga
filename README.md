@@ -11,8 +11,11 @@
 <i class="fab fa-github">![image](https://user-images.githubusercontent.com/107155249/224846843-35dc029a-d104-47bf-b3d7-7bd62f701440.png)
 </i>
 
+<i class="fab fa-github">![image](https://user-images.githubusercontent.com/107155249/224847256-d66f6d44-2d36-44bb-88a2-347c2b47ba1a.png)
+</i>
 
-            <i class="devicon-adonisjs-original colored"></i>
+
+            
           
 
 

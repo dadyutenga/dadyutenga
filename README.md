@@ -21,11 +21,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Web Hacking Frameworks](https://img.shields.io/badge/-Web%20Hacking%20Frameworks-000000?style=flat&logo=hackaday&logoColor=white)
 ## 🛠️ Projects
-
-Here are a few projects I've worked on:
-
-- [**Project Name**](https://github.com/dadyutenga/project-name): A brief description of what the project does or aims to achieve.
-- [**Another Project**](https://github.com/dadyutenga/another-project): A brief description of another project.
+Now i am Building in Private
 
 ## 📈 GitHub Stats
 

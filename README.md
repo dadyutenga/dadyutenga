@@ -9,10 +9,17 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?style=flat&logo=jupyter&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=flat&logo=restful-api&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Web Hacking Frameworks](https://img.shields.io/badge/-Web%20Hacking%20Frameworks-000000?style=flat&logo=hackaday&logoColor=white)
 ## 🛠️ Projects
 
 Here are a few projects I've worked on:

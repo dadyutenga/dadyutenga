@@ -49,3 +49,5 @@ I'm currently focusing on:
 - I'm a big fan of open-source projects and love contributing to the community.
 
 Thanks for visiting my profile! Looking forward to collaborating with you.
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=dadyutenga&layout=compact

@@ -32,6 +32,7 @@ Now i am Building in Private
 Feel free to reach out to me via:
 
 - Email: [dadyutenga@yahoo.com](mailto:dadyutenga@yahoo.com)
+- Work Email:[dadiutenga@ditronics.co.tz](mailto:dadiutenga@ditronics.co.tz)
 - LinkedIn: [Dadi Utenga](https://www.linkedin.com/in/dadi-utenga-375135220/)
 - Twitter: [@DadyUtenga](https://x.com/DadyUtenga)
 

@@ -50,5 +50,5 @@ I'm currently focusing on:
 
 Thanks for visiting my profile! Looking forward to collaborating with you.\
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadyutenga&layout=compact)
 

@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=flat&logo=restful-api&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 

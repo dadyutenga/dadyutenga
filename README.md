@@ -1,6 +1,6 @@
 # Dadi Utenga
 
-** Software Engineer** | Full-Stack Development | API Architecture | Open Source Contributor
+Software Engineer| Full-Stack Development | API Architecture | Open Source Contributor
 
 ## 👨‍💻 Professional Summary
 

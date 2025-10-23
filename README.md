@@ -35,8 +35,6 @@ Experienced software engineer specializing in full-stack development, API design
 
 ## 📊 GitHub Analytics
 
-![Dadyutenga's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadyutenga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadyutenga&layout=compact&theme=radical&hide_border=true)
 
 ## 🤝 Open Source Contribution

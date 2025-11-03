@@ -39,7 +39,7 @@ Experienced software engineer specializing in full-stack development, API design
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadyutenga&layout=compact&theme=radical&hide_border=true)
 
-![anime-vibes](https://media.giphy.com/media/hvRJCLFzcasrng1BBp/giphy.gif)
+
 
 ## 🎌 Aesthetic & Vibes
 
@@ -63,6 +63,5 @@ Anime enthusiast | Code wizard | Main character energy 💫 | Living that develo
 
 **Open to**: Technical Collaborations | Consulting Opportunities | Speaking Engagements
 
-*"Clean code always looks like it was written by someone who cares." - Robert C. Martin*
-
+A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned. 
 *Stay based, stay productive* ✨

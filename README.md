@@ -2,8 +2,6 @@
 
 Software Engineer | Full-Stack Development | API Architecture | No cap, just vibes ✨
 
-![anime-banner](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
-
 ## 👨‍💻 Professional Summary
 
 Experienced software engineer specializing in full-stack development, API design, and scalable web applications. Passionate about building robust solutions and mentoring developers. Lowkey obsessed with clean code and anime aesthetics. It's giving productive energy ✨
@@ -18,8 +16,8 @@ Experienced software engineer specializing in full-stack development, API design
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)

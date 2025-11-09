@@ -8,22 +8,16 @@ Experienced software engineer specializing in full-stack development, API design
 
 ## 🛠️ Technical Expertise
 
-### Backend Development
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+### Backend Development and Tools used 
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts,spring,redis,rabbitmq,postman,postgres,php,opencv,nodejs,nginx,mysql,linux,laravel,java,go,django&perline=3)](https://skillicons.dev)
+
 
 ### Frontend Development
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,vue,flutter,jquery&perline=3)](https://skillicons.dev)
 
-### Tools & Infrastructure
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=flat&logo=restful-api&logoColor=white)
 
 ## 💼 Core Competencies
 

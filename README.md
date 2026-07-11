@@ -6,18 +6,6 @@ Software Engineer | Full-Stack Development | API Architecture | No cap, just vib
 
 Experienced software engineer specializing in full-stack development, API design, and scalable web applications. Passionate about building robust solutions and mentoring developers. Lowkey obsessed with clean code and anime aesthetics. It's giving productive energy ✨
 
-## 🛠️ Technical Expertise
-
-### Backend Development and Tools used 
-
-
-[![My Skills](https://skillicons.dev/icons?i=py,ts,spring,redis,rabbitmq,postman,postgres,php,opencv,nodejs,nginx,mysql,linux,laravel,java,go,django&perline=3)](https://skillicons.dev)
-
-
-### Frontend Development
-
-[![My Skills](https://skillicons.dev/icons?i=react,vite,vue,flutter,jquery&perline=3)](https://skillicons.dev)
-
 
 ## 💼 Core Competencies
 
@@ -27,9 +15,6 @@ Experienced software engineer specializing in full-stack development, API design
 - **System Design**: Scalable architecture and performance optimization
 - **DevOps Practices**: CI/CD, version control, and deployment automation
 
-## 📊 GitHub Analytics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadyutenga&layout=compact&theme=radical&hide_border=true)
 
 
 

@@ -25,3 +25,4 @@ Software engineer focused on full-stack development, API design, and scalable we
 Exploring advanced system design patterns and building scalable, maintainable applications.
 
 **Open to**: Collaborations, consulting, and speaking engagements.
+[![committers.top badge](https://user-badge.committers.top/tanzania_public/USERNAME.svg)](https://user-badge.committers.top/tanzania_public/dadyutenga)

@@ -30,5 +30,7 @@ Exploring advanced system design patterns and building scalable, maintainable ap
 [![Tanzania Ranking](https://user-badge.committers.top/tanzania_public/dadyutenga.svg)](https://user-badge.committers.top/tanzania_public/dadyutenga)
 
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadyutenga&layout=donut&theme=radical&langs_count=8)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=dadyutenga&layout=compact&theme=tokyonight&langs_count=10)
+
 

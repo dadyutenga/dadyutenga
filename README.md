@@ -18,6 +18,9 @@ Software engineer focused on full-stack development, API design, and scalable we
 
 - Email: [dadiutenga@ditronics.co.tz](mailto:dadyutenga@yahoo.com)
 - LinkedIn: [Dadi Utenga](https://www.linkedin.com/in/dadi-utenga-375135220/)
+- 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadyutenga&layout=compact&theme=tokyonight&langs_count=10&hide_border=true)
+
 - X: [@DadyUtenga](https://x.com/DadyUtenga)
 - [![committers.top badge](https://user-badge.committers.top/tanzania_public/USERNAME.svg)](https://user-badge.committers.top/tanzania_public/dadyutenga)
 

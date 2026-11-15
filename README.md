@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d0a2400-968e-442c-981d-e1ccd20b84d4" /># Dadi Utenga
+Dadi Utenga
 
 Software Engineer | Full-Stack Development | API Architecture
 

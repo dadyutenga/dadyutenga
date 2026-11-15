@@ -1,4 +1,4 @@
-# Dadi Utenga
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d0a2400-968e-442c-981d-e1ccd20b84d4" /># Dadi Utenga
 
 Software Engineer | Full-Stack Development | API Architecture
 
@@ -16,7 +16,7 @@ Software engineer focused on full-stack development, API design, and scalable we
 
 ## Contact
 
-- Email: [dadiutenga@ditronics.co.tz](mailto:dadyutenga@yahoo.com)
+- Email: [d.utenga@h4ckit.tech](mailto:d.utenga@h4ckit.tech)
 - LinkedIn: [Dadi Utenga](https://www.linkedin.com/in/dadi-utenga-375135220/)
 - X: [@DadyUtenga](https://x.com/DadyUtenga)
 
